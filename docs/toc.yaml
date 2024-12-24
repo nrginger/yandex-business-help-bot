@@ -1,0 +1,370 @@
+title: "Яндекс Бизнес"
+items:
+  - name: О Яндекс Бизнесе
+    href: index.md
+    items:
+      - name: Где появится компания
+        href: general/displaying.md
+      - name: Требования к размещению
+        href: add-company/info-terms.md
+      - name: Подтвердить адрес
+        href: moderation/moderation-address.md
+      - name: Откуда мы берем данные
+        href: add-company/change-info.md
+  - name: Добавить компанию в Яндекс
+    items:
+      - name: Быстрый старт
+        href: add-company/add-org.md
+      - name: Добавить жилой комплекс или коттеджный поселок
+        href: add-company/residential-estate.md
+        when: tld == 'ru'
+        hidden: true
+      - name: Подтверждение прав на компанию
+        href: manage/verify.md
+      - name: Знак «Информация подтверждена владельцем»
+        href: manage/verified-owner.md
+      - name: Роли пользователей
+        href: manage/accesses.md
+  - name: Заполнить информацию о компании
+    href: manage/edit.md
+    items:
+      - name: Данные
+        href: manage/data.md
+      - name: Логотип, фотографии и видеоролики
+        href: manage/photos.md
+      - name: Публикации
+        href: manage/publications.md
+      - name: Истории
+        href: manage/stories.md
+        when: tld == 'ru'
+      - name: Товары и услуги
+        items:
+          - name: Прайс‑лист компании
+            href: manage/price-list.md
+          - name: Прайс-лист партнера
+            href: manage/partners-price-list.md
+      - name: Доставка
+        href: manage/delivery.md
+        when: tld == 'ru' or tld == 'kz'
+      - name: Промоматериалы
+        href: manage/promo.md
+      - name: Подключить заявки от пользователей
+        href: manage/form.md
+      - name: Удаление компании
+        href: manage/delete.md
+      - name: Онлайн‑запись в профиле
+        href: manage/booking.md
+      - name: История изменений
+        href: manage/changes.md
+      - name: Вопросы и ответы
+        href: manage/faq.md
+  - name: Отзывы и рейтинг
+    items:
+      - name: Управление отзывами
+        href: manage/reviews.md
+      - name: Рейтинг компании
+        href: manage/rating.md
+      - name: Награда «Хорошее место»
+        href: manage/stiker.md
+        when: tld == 'ru'
+  - name: Рекламировать компанию
+    when: tld == 'ru' or tld == 'kz'
+    href: advertising.md
+    items:
+      - name: Рекламная подписка
+        href: order.md
+        items:
+          - name: Как мы покажем вас в Поиске и на сайтах
+            href: adv-yan.md
+          - name: Цели в Яндекс Метрике
+            href: tags.md
+          - name: Рекламные материалы
+            href: adv-materials.md
+            items:
+              - name: Новый интерфейс
+                href: adv-materials-new.md
+              - name: Старый интерфейс
+                href: adv-materials-old.md
+          - name: Интеграция с Ozon
+            href: ozon-api.md
+            when: tld == 'ru'
+      - name: Приоритетное размещение
+        href: benefits.md
+        items:
+          - name: Рекламные материалы
+            href: benefits-materials.md
+            items:
+              - name: Новый интерфейс
+                href: benefits-materials-new.md
+              - name: Старый интерфейс
+                href: benefits-materials-old.md
+      - name: Брендированное приоритетное размещение
+        href: brand.md
+      - name: 3D‑объекты
+        href: three-d-objects.md
+        hidden: true
+        when: tld == 'ru'
+      - name: Онлайн‑компании в Яндекс Картах
+        href: online-companies-on-maps.md
+      - name: Виртуальная сеть
+        href: virtual-network.md
+      - name: Размещение в профиле другой компании
+        href: adv-in-cards.md
+      - name: Правила размещения рекламы
+        href: moderation/moderation.md
+      - name: Предупреждения и возрастные ограничения в объявлениях
+        href: moderation/age-alerts-kz.md
+        when: tld == 'kz'
+      - name: Оплатить рекламу
+        href: payment/invoicing.md
+      - name: Как отредактировать рекламную кампанию
+        href: manage-order.md
+      - name: Подмена номера
+        href: spoofed-phone-number.md
+        when: tld == 'ru'
+      - name: Продвижение в Facebook и Instagram
+        href: adv-meta.md
+        when: tld == 'kz'
+      - name: Автоматическое добавление товаров и услуг
+        href: auto-prod-add.md
+        items:
+          - name: С сайта компании
+            href: auto-prod-add-site.md
+          - name: С маркетплейсов
+            href: auto-prod-add-marketplace.md
+            when: tld == 'ru'
+          - name: ВКонтакте
+            href: auto-prod-add-vk.md
+            when: tld == 'ru'
+          - name: Telegram
+            href: auto-prod-add-tg.md
+            when: tld == 'ru'
+          - name: Через YML-фид
+            href: auto-prod-add-yml-fid.md
+          - name: Из Вебмастера
+            href: auto-prod-add-webmaster.md
+          - name: Частые вопросы
+            href: auto-prod-add-faq.md
+  - name: Статистика
+    items:
+      - name: Конкуренты
+        href: manage/competitors.md
+      - name: По рекламной кампании
+        href: manage/ad-statistics.md
+        when: tld == 'ru' or tld == 'kz'
+      - name: Общая статистика
+        href: manage/general-statistics.md
+      - name: Как вас находят
+        href: manage/statistics.md
+  - name: Создать сайт для компании
+    href: create-site.md
+  - name: Особенности для онлайн‑компаний
+    href: online-company.md
+  - name: Особенности для сетей
+    href: branches/several-branches.md
+  - name: Как обновлять данные сети
+    href: branches/basic.md
+  - name: Документация для программы Яндекс Бизнес
+    href: web-documents.md
+    hidden: true
+  - name: Агентствам
+    when: tld == 'ru'
+    href: agency/index.md
+    items:
+      - name: Правила работы
+        href: agency/rules.md
+      - name: Роли пользователей
+        href: agency/access.md
+      - name: Запустить рекламу для субклиента
+        href: agency/manage.md
+  - name: Служба поддержки
+    href: troubleshooting/main.md
+    when: tld == "uz tr com"
+  - name: Служба поддержки
+    items:
+      - name: Служба поддержки рекламодателей
+        href: troubleshooting/favplacement.md
+        when: tld == 'ru' or tld == 'kz'
+      - name: Служба поддержки компаний
+        href: troubleshooting/feedback-company.md
+      - name: Служба поддержки сетей
+        href: troubleshooting/feedback-branches.md
+      - name: Оставить отзыв после консультации
+        href: troubleshooting/form.md
+        hidden: true
+      - name: Служба поддержки
+        href: troubleshooting/main.md
+        when: tld == "kz tr com"
+  - name: Коммерческие партнеры
+    href: https://yandex.ru/adv/contact/agency
+  - name: Глоссарий
+    href: general/glossary.md
+  - name: Реклама в новом формате разрешена
+    href: adv-yan-org-resolved.md
+    hidden: true
+  - name: Реклама в новом формате запрещена
+    href: adv-yan-org-forbidden.md
+    hidden: true
+  - name: Список видов деятельности без возможности переезда
+    href: no-moving-list.md
+    hidden: true
+  - name: Список видов деятельности без прайс-листов
+    href: no-price-list.md
+    hidden: true
+  - name: Список видов деятельности
+    href: manage/categories-all.md
+    hidden: true
+  - name: Заказ приоритетного размещения
+    href: https://yandex.ru/sprav/add/
+    hidden: true
+  - name: Заказ приоритетного размещения
+    href: https://yandex.kz/sprav/add/
+    hidden: true
+  - name: Стать партнером Яндекс Бизнеса
+    href: https://yandex.ru/promo/sprav-partner
+    hidden: true
+  - name: Для Казахстана
+    href: https://yandex.kz/legal/directory_conditions/
+    hidden: true
+    when: tld == 'kz'
+  - name: Для России
+    href: https://yandex.ru/legal/directory_conditions/
+    hidden: true
+  - name: Для Беларуси
+    href: https://yandex.by/legal/directory_conditions/
+    hidden: true
+  - name: Добавить компанию
+    href: https://yandex.com.tr/sprav/add/
+    hidden: true
+    when: tld == "tr"
+  - name: Помощь Яндекс Карт
+    href: https://yandex.com/sprav/add/
+    hidden: true
+    when: tld == 'com'
+  - name: Помощь Яндекс Карт
+    href: https://yandex.ru/support/maps/
+    hidden: true
+    when: tld == 'ru'
+  - name: Помощь Яндекс Карт
+    href: https://yandex.ru/support/maps/
+    hidden: true
+    when: tld == 'kz'
+  - name: Помощь Яндекс Карт
+    href: https://yandex.com.tr/support/maps/
+    hidden: true
+    when: tld == 'com.tr'
+  - name: Помощь Яндекс Карт
+    href: https://yandex.com/support/maps/
+    hidden: true
+    when: tld == 'com'
+  - name: Пользовательское соглашение сервисов Яндекса
+    href: https://yandex.ru/legal/rules/
+    hidden: true
+    when: tld == 'ru'
+  - name: Пользовательское соглашение сервисов Яндекса
+    href: https://yandex.kz/legal/rules/
+    hidden: true
+    when: tld == 'kz'
+  - name: Пользовательское соглашение сервисов Яндекса
+    href: https://yandex.uz/legal/rules/
+    hidden: true
+    when: tld == 'uz'
+  - name: Пользовательское соглашение сервисов Яндекса
+    href: https://yandex.com/legal/rules/
+    hidden: true
+    when: tld == 'com'
+  - name: Пользовательское соглашение сервисов Яндекса
+    href: https://yandex.com.tr/legal/rules/
+    hidden: true
+    when: tld == 'com.tr'
+  - name: Оферта
+    href: https://yandex.ru/legal/oferta_geo/
+    hidden: true
+    when: tld == 'ru'
+  - href: https://yandex.ru/legal/advertising_subscription/
+    hidden: true
+  # ссылки ниже нужны для com, uz, kz, com.tr
+  - name: Подмена номера
+    href: spoofed-phone-number.md
+    hidden: true
+  - name: Истории
+    href: manage/stories.md
+    hidden: true
+  - name: Награда «Хорошее место»
+    href: manage/stiker.md
+    hidden: true
+  - name: Служба поддержки рекламодателей
+    href: troubleshooting/favplacement.md
+    hidden: true
+  - name: Рекламировать компанию
+    href: advertising.md
+    hidden: true
+  - name: Рекламная подписка
+    href: order.md
+    hidden: true
+  - name: Приоритетное размещение
+    href: benefits.md
+    hidden: true
+  - name: Правила размещения рекламы
+    href: moderation/moderation.md
+    hidden: true
+  - name: Брендированное приоритетное размещение
+    href: brand.md
+    hidden: true
+  - name: Размещение в профиле другой компании
+    href: adv-in-cards.md
+    hidden: true
+  - name: Как мы покажем вас в Поиске и на сайтах
+    href: adv-yan.md
+    hidden: true
+  - name: Цели в Яндекс Метрике
+    href: tags.md
+    hidden: true
+  - name: Новый интерфейс
+    href: adv-materials-new.md
+    hidden: true
+  - name: Старый интерфейс
+    href: adv-materials-old.md
+    hidden: true
+  - name: Оплатить рекламу
+    href: payment/invoicing.md
+    hidden: true
+  - name: По рекламной кампании
+    href: manage/ad-statistics.md
+    hidden: true
+  - name: Как отредактировать рекламную кампанию
+    href: manage-order.md
+    hidden: true
+  - name: Новый интерфейс
+    href: benefits-materials.md
+    hidden: true
+  - name: Новый интерфейс
+    href: benefits-materials-new.md
+    hidden: true
+  - name: Рекламные материалы
+    href: adv-materials.md
+    hidden: true
+  - name: Старый интерфейс
+    href: benefits-materials-old.md
+    hidden: true
+  - name: Реклама в новом формате разрешена
+    href: adv-yan-org-resolved.md
+    hidden: true
+  - name: Реклама в новом формате запрещена
+    href: adv-yan-org-forbidden.md
+    hidden: true
+  - name: Автоматическое добавление товаров и услуг
+    href: auto-prod-add.md
+    hidden: true
+  - name: Через YML-фид
+    href: auto-prod-add-yml-fid.md
+    hidden: true
+  - name: С сайта компании
+    href: auto-prod-add-site.md
+    hidden: true
+  - name: Из Вебмастера
+    href: auto-prod-add-webmaster.md
+    hidden: true
+  - name: Частые вопросы
+    href: auto-prod-add-faq.md
+    hidden: true

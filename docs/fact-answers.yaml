@@ -1,0 +1,231 @@
+support/src2/ru/business-priority/add-company/add-org.dita:
+    business-priority__add-org__how-long-moderation-fact1:
+        questions:
+            - яндекс бизнес сколько длится модерация
+        answer: Модерация может занять долгое время. Отслеживайте статус проверки в личном кабинете на странице «Организации». Если этот статус не меняется более двух недель, обратитесь в службу поддержки.
+        link: https://yandex.ru/support/business-priority/add-company/add-org.html
+        link-name: Добавление организации
+    business-priority__add-org__how-to-add-fact1:
+        questions:
+            - яндекс добавить организацию
+            - добавить организацию в яндекс
+            - яндекс справочник добавить организацию
+            - как добавить организацию в яндекс
+            - яндекс бизнес добавить организацию
+            - мои организации на яндекс справочник
+            - добавить организацию в яндекс бизнес
+        answer: Чтобы добавить организацию, авторизуйтесь на Яндексе и ознакомьтесь с Правилами заполнения полей в Бизнесе. На странице yandex.ru/sprav/add укажите информацию о своей компании. Добавьте контактные данные и подтвердите регистрацию. Дождитесь результата проверки. Подробнее читайте в Справке Бизнеса.
+        link: https://yandex.ru/support/business-priority/add-company/add-org.html
+        link-name: Добавление организации
+    business-priority__add-org__account:
+        questions:
+            - бизнес аккаунт яндекс личный кабинет
+        answer: Чтобы авторизоваться в Яндекс Бизнесе, откройте страницу yandex.ru/sprav/add и войдите с Яндекс ID. 
+        link: https://yandex.ru/support/business-priority/add-company/add-org.html#auth
+        link-name: Войти в аккаунт
+support/src2/ru/business-priority/add-company/info-terms.dita:
+    business-priority__info-terms__why-decline:
+        questions:
+            - яндекс бизнес почему отклонена заявка
+        answer: 'Наиболее распространенные причины отклонения заявки: не удается подтвердить данные организации или вместо названия организации указана сфера ее деятельности либо рекламный текст. При размещении на картах обязательно проверяется адрес организации. Заявка будет отклонена, если в ней указан фиктивный или юридический адрес вместо фактического.'
+        link: https://yandex.ru/support/business-priority/add-company/info-terms.html
+        link-name: Правила предоставления информации
+support/src2/ru/business-priority/general/displaying.dita:
+    business-priority__general_displaying__my-org-fact:
+        questions:
+            - мои организации на яндекс картах личный кабинет
+            - организации яндекс бизнес
+        answer: Найдите организацию по названию или виду деятельности и местоположению. В результатах поиска отображается список карточек организаций с информацией из Бизнеса. Онлайн-организации на Яндекс Картах не публикуются.
+        link: https://yandex.ru/support/business-priority/general/displaying.html
+        link-name: Где будет показываться организация
+support/src2/ru/business-priority/index.dita:
+    business-priority__index__how-much:
+        questions:
+            - яндекс бизнес сколько стоит размещение
+        answer: Информация об организации размещается в Бизнесе бесплатно.
+        link: https://yandex.ru/support/business-priority/
+        link-name: О Яндекс Бизнесе
+    business-priority__index__what:
+        questions:
+            - яндекс бизнес что это
+            - яндекс бизнес что это такое
+            - я бизнес что это
+            - яндекс бизнес как работает
+        answer: Бизнес — это интернет-каталог организаций. Пользователь сможет найти вашу организацию на сервисах Яндекса, если вы добавите информацию о ней в Бизнес. Укажите вид деятельности и дополнительные параметры, чтобы облегчить поиск. На базе всех данных будет сформирована карточка организации. Вы можете использовать ее в качестве визитки, сайта или ссылаться на нее в социальных сетях.
+        link: https://yandex.ru/support/business-priority/
+        link-name: О Яндекс Бизнесе
+    business-priority__index__what-is-it-how:
+        questions:
+            - яндекс бизнес что это такое и как работает
+            - яндекс поиск бизнес
+            - яндекс справка бизнес
+        answer: Бизнес — интернет-каталог организаций. Пользователь сможет найти вашу организацию на сервисах Яндекса, если вы добавите информацию о ней в Бизнес. Укажите вид деятельности и дополнительные параметры, чтобы облегчить поиск. На базе всех данных будет сформирована карточка организации. Вы можете использовать ее в качестве визитки, сайта или ссылаться на нее в социальных сетях.
+        link: https://yandex.ru/support/business-priority/
+        link-name: О Яндекс Бизнесе
+    business-priority__index__what-is-it-how-1:
+        questions:
+            - яндекс справочник что это такое и как работает
+        answer: Справочник — это интернет-каталог организаций. Пользователь сможет найти вашу организацию на сервисах Яндекса, если вы добавите информацию о ней в Бизнес. Укажите вид деятельности и дополнительные параметры, чтобы облегчить поиск. На базе всех данных будет сформирована карточка организации. Вы можете использовать ее в качестве визитки, сайта или ссылаться на нее в социальных сетях.
+        link: https://yandex.ru/support/business-priority/
+        link-name: О Яндекс Бизнесе
+support/src2/ru/business-priority/manage/accesses.dita:
+    business-priority__accesses__no-access:
+        questions:
+            - яндекс бизнес нет пункта доступы
+        answer: Раздел «Доступы» есть только у владельца организации. Если вы — представитель, то этого раздела нет в меню.
+        link: https://yandex.ru/support/business-priority/manage/accesses.html
+        link-name: Роли для управления организациями
+support/src2/ru/business-priority/manage/edit.dita:
+    business-priority__edit__where-change-region:
+        questions:
+            - яндекс бизнес где изменить регион
+        answer: В карточке организации в меню слева выберите пункт «Данные». Если у вас онлайн-организация, внесите изменения в раздел «Территория оказания услуг». Если у вашей компании есть фактическое местоположения — в раздел «Адрес».
+        link: https://yandex.ru/support/business-priority/manage/edit.html
+        link-name: Редактирование данных
+support/src2/ru/business-priority/manage/photos.dita:
+    business-priority__photos__why-not-to-download-photos:
+        questions:
+            - яндекс бизнес почему не загружается фото
+            - яндекс справочник почему не загружается фото
+        answer: Основная причина — фото не соответствует требованием сервиса. Проверьте формат файла (JPG или PNG) и его размер (не больше 10 МБ, разрешение от 320×240 до 5000×5000 пикселей). К публикации не принимаются фото, не имеющие отношение к организации, дублирующие добавленные ранее, с надписями, которые мешают просмотру основного изображения, с изображением запрещенных предметов, веществ, сцен насилия.
+        link: https://yandex.ru/support/business-priority/manage/photos.html
+        link-name: Управление показом фотографий
+support/src2/ru/business-priority/manage/price-list.dita:
+    business-priority__price-list__where-products:
+        questions:
+            - яндекс бизнес где показываются товары
+        answer: Товары из прайс-листа отображаются в карточке организации на Яндексе и Яндекс Картах.
+        link: https://yandex.ru/support/business-priority/manage/price-list.html
+        link-name: Прайс-лист
+support/src2/ru/business-priority/manage/reviews.dita:
+    business-priority__manage__reviews__cant-write-review:
+        questions:
+            - яндекс бизнес почему не могу оставить отзыв
+        answer: Пользователь может оставить только один отзыв на организацию и в дальнейшем редактировать его. К этому отзыву можно добавить комментарии. И отзывы, и комментарии проверяют на соответствие требованиям. Проверка может занять несколько дней. Подробнее читайте в Справке сервиса.
+        link: https://yandex.ru/support/business-priority/manage/reviews.html
+        link-name: Управление отзывами
+    business-priority__manage__reviews__how-delete-comment:
+        questions:
+            - как удалить отзыв на яндексе о компании
+        answer: Мы не удаляем отзывы, которые отражают негативное субъективное мнение пользователя, но не противоречат требованиям. Вы можете ответить на отзыв пользователя в личном кабинете Бизнеса и выяснить причину недовольства. Если вы считаете, что отзыв не соответствует требованиям, вы как владелец или представитель организации можете пожаловаться на него. Подробнее читайте в Справке Бизнеса.
+        link: https://yandex.ru/support/business-priority/manage/reviews.html#reviews__reply
+        link-name: Управление отзывами
+    business-priority__manage__reviews__how-delete-my-comment:
+        questions:
+            - как удалить свой отзыв в яндексе об организации
+        answer: Свой отзыв вы можете удалить на странице организации на Картах. Для этого войдите в тот аккаунт на Яндексе, под которым вы оставляли отзыв, найдите нужную организацию, выберите свой отзыв в списке и удалите его.
+        link: https://yandex.ru/support/business-priority/manage/reviews.html
+        link-name: Управление отзывами
+    business-priority__manage__reviews__why-delete-my-comment:
+        questions:
+            - яндекс бизнес почему удалили отзыв
+        answer: Отзыв может быть удален по результатам дополнительной проверки на соответствие правилам Яндекса. Подробнее читайте в Справке сервиса.
+        link: https://yandex.ru/support/business-priority/manage/reviews.html
+        link-name: Управление отзывами
+support/src2/ru/business-priority/manage/stiker.dita:
+    buisness-priotity__sticker__sticker-fact:
+        questions:
+            - хорошее место яндекс как получить
+            - яндекс хорошее место как получить
+            - я хорошее место
+            - как получить наклейку яндекс хорошее место
+            - яндекс хорошее место наклейка как получить
+            - наклейка яндекс хорошее место
+        answer: Награда «Хорошее место» ежегодно вручается бизнесам на территории Российской Федерации с рейтингом 4,5 и выше и знаком «Информация подтверждена владельцем». Основная категория организации должна входить в список категорий, участвующих в проекте.
+        link: https://yandex.ru/support/business-priority/manage/stiker.html
+        link-name: Награда «Хорошее место»
+support/src2/ru/business-priority/manage/verify.dita:
+    business-priority__verify__how-to-find-1:
+        questions:
+            - найти организацию в яндекс справочнике
+            - найти организацию в яндекс справочнике как свою
+        answer: Чтобы найти организацию, на странице поиска yandex.ru/sprav/search введите название организации, укажите регион и нажмите кнопку «Найти». Другой способ — найдите организацию на Картах и откройте ее карточку. Подробнее читайте в Справке Бизнеса.
+        link: https://yandex.ru/support/business-priority/manage/verify.html#verify__search
+        link-name: Подтверждение прав
+support/src2/ru/business-priority/manage/delete.dita:
+    business-priority__verify__how-to-delete:
+        questions:
+            - удалить организацию из яндекс бизнес
+        answer: Если вы являетесь владельцем компании, вы можете удалить ее из Яндекс Бизнеса. В личном кабинете на странице «Организации» найдите компанию, нажмите значок с тремя ветрикальными точками и выберите нужную опцию. Подробнее читайте в Справке Бизнеса.
+        link: https://yandex.ru/support/business-priority/manage/delete.html#delete__owner
+        link-name: Удаление компании        
+    business-priority__verify__no-call:
+        questions:
+            - яндекс бизнес не приходит звонок
+        answer: Возможно, используется многоканальная телефония и нужно указать добавочный номер. Если звонок не поступает более 3 суток, напишите в службу поддержки.
+        link: https://yandex.ru/support/business-priority/manage/verify.html#verify__multi-channel-telephony
+        link-name: Подтверждение прав
+    business-priority__verify__no-code:
+        questions:
+            - яндекс бизнес не приходит код
+            - яндекс справочник не приходит код
+        answer: Если автоматический оператор не дозвонился по указанному номеру, заявка будет переведена в колл-центр. В течение трех суток вам перезвонит оператор колл-центра и сообщит код.
+        link: https://yandex.ru/support/business-priority/manage/verify.html
+        link-name: Подтверждение прав
+    business-priority__verify__where-code:
+        questions:
+            - яндекс бизнес куда ввести код
+        answer: На странице «Заявки» перейдите на вкладку «Заявки на подтверждение». Нажмите кнопку «Ввести код» и укажите код верификации.
+        link: https://yandex.ru/support/business-priority/manage/verify.html
+        link-name: Подтверждение прав
+support/src2/ru/business-priority/payment/prices.dita:
+    business-priority__prices__how_much_client1-fact:
+        questions:
+            - яндекс клиенты сколько стоит
+        answer: Стоимость рекламной подписки определяется автоматически и зависит от географии, рубрики, периода, на который вы заказываете размещение, и количества потенциальных клиентов, прогнозируемого Яндексом. Точную стоимость размещения вы можете узнать при создании рекламной кампании.
+        link: https://yandex.ru/support/business-priority/payment/prices.html
+        link-name: О стоимости рекламы
+    business-priority__prices__how_much_client2-fact:
+        questions:
+            - яндекс клиенты стоимость
+        answer: Стоимость приоритетного размещения определяется автоматически и зависит от географии, рубрики, периода, на который вы заказываете размещение, и количества потенциальных клиентов, прогнозируемого Яндексом. Точную стоимость размещения вы можете узнать при создании рекламной кампании.
+        link: https://yandex.ru/support/business-priority/payment/prices.html
+        link-name: О стоимости размещения
+support/src2/ru/business-priority/payment/invoicing.dita:
+    business-priority__invoicing__promocode-fact:
+        questions:
+            - промокод на рекламу яндекс бизнес
+        answer: Промокод дает бонус к бюджету Рекламной подписки или скидку при оплате. Сумма бонуса или скидки равна номиналу промокода.
+        link: https://yandex.ru/support/business-priority/payment/invoicing.html#invoicing__promo
+        link-name: Промокод на оплату рекламы
+support/src2/ru/business-priority/troubleshooting/favplacement.dita:
+    business-priopity__favplacement__hotline-fact1:
+        questions:
+            - яндекс бизнес горячая линия
+            - яндекс бизнес телефон
+            - поддержка яндекс бизнес
+            - служба поддержки яндекс бизнес
+            - поддержка яндекс бизнес телефон
+            - горячая линия яндекс бизнес
+            - яндекс бизнес поддержка телефон 
+        answer: Вы можете позвонить в службу поддержки по телефону 8 800 234-99-26 или написать в чат в интерфейсе Бизнеса. Мы отвечаем ежедневно с 8 до 20 часов. Ответы на частые вопросы есть в Справке.
+        link: https://yandex.ru/support/business-priority/troubleshooting/favplacement.html
+        link-name: Служба поддержки рекламодателей
+support/src2/ru/business-priority/troubleshooting/main.dita:
+    business-priority__main__where-to-complain:
+        questions:
+            - яндекс бизнес куда пожаловаться
+        answer: Оставить свой отзыв о работе Бизнеса вы можете в любой из форм обратной связи. Также в конце каждой страницы есть кнопка «Написать в службу поддержки».
+        link: https://yandex.ru/support/business-priority/troubleshooting/main.html
+        link-name: Служба поддержки
+support/src2/ru/business-priority/branches//basic.dita:
+    business-priority__branches__how-update:
+        questions:
+            - как добавить филиал в яндекс бизнес
+        answer: 'Добавлять филиалы и обновлять данные о них можно несколькими способами: в интерфейсе Яндекс Бизнеса (если у вас менее 30 филиалов) или с помощью файлов в форматах XML и CSV. Если эти способы не подходят, разместите данные на своем сайте и напишите в службу поддержки. Подробнее читайте в Справке Бизнеса.'
+        link: https://yandex.ru/support/business-priority/branches/basic.html 
+        link-name: Как обновлять данные сети
+support/src2/ru/business-priority/order.dita:
+    business-priority__order__about:
+        questions:
+            - рекламная подписка яндекс бизнес
+        answer: Рекламная подписка позволяет показывать объявления сразу на нескольких площадках, где есть ваша целевая аудитория. Так вы привлечете максимум клиентов и не превысите бюджет. Чтобы запустить подписку, добавьте информацию о своем бизнесе, выберите бюджет, оплатите кампанию и загрузите рекламные материалы. Сервис автоматически создаст объявления и разместит их на подходящих ресурсах.
+        link: https://yandex.ru/support/business-priority/order.html
+        link-name: Рекламная подписка
+support/src2/ru/business-priority/manage/delivery.dita:
+    business-priority__delivery__about:
+        questions:
+            - доставка яндекс бизнес
+        answer: Расскажите о способах доставки, которые вы предлагаете. Эта информация появится на сайте от Яндекс Бизнеса, который автоматически создается из данных профиля компании. Чтобы добавить доставку, в профиле откройте вкладку «О компании» → «Доставка» и нажмите «+ Добавить». Доставка будет предлагаться пользователям, если у вашей компании добавлены товары или услуги.
+        link: https://yandex.ru/support/business-priority/manage/delivery.html
+        link-name: Доставка

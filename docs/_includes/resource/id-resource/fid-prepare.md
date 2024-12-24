@@ -1,0 +1,1 @@
+[Подготовьте фид](https://yandex.ru/support/webmaster/search-appearance/product.html#product__setup) в формате YML.

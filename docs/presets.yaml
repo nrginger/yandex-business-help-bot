@@ -1,0 +1,47 @@
+default:
+  locale: ru
+  tld: ru
+  yandex-sprav: https://yandex.ru/sprav
+  sprav-add: https://yandex.ru/sprav/add/
+  legal-rules: https://yandex.ru/legal/rules/
+  support-maps: https://yandex.ru/support/maps/
+  footer-logo: '%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81'
+  footer-sign: 'Также вы можете перейти на сервис'
+
+com:
+  locale: en
+  tld: com
+  yandex-sprav: https://yandex.com/sprav
+  sprav-add: https://yandex.com/sprav/add/
+  legal-rules: https://yandex.com/legal/rules/
+  support-maps: https://yandex.com/support/maps/
+  footer-logo: 'Yandex%20Business'
+  footer-sign: 'You can also go to'
+
+kz:
+  locale: kk
+  tld: kz
+  yandex-sprav: https://yandex.kz/sprav
+  sprav-add: https://yandex.kz/sprav/add/
+  legal-rules: https://yandex.kz/legal/rules/
+  support-maps: https://yandex.ru/support/maps/
+  footer-logo: '%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81'
+  footer-sign: 'Сондай-ақ қызметке өтуге болады'
+
+tr:
+  locale: tr
+  tld: 'com.tr'
+  yandex-sprav: https://yandex.com.tr/sprav
+  sprav-add: https://yandex.com.tr/sprav/add/
+  legal-rules: https://yandex.com.tr/legal/rules/
+  support-maps: https://yandex.com.tr/support/maps/
+  footer-logo: 'Yandex%20Business'
+  footer-sign: 'You can also go to'
+
+uz:
+  locale: uz
+  tld: uz
+  yandex-sprav: https://yandex.uz/sprav
+  legal-rules: https://yandex.uz/legal/rules/
+  footer-logo: 'Yandex%20%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81'
+  footer-sign: 'Shuningdek, xizmatga o‘tishingiz ham mumkin'

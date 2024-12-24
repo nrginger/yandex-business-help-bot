@@ -1,0 +1,2 @@
+
+Откройте {% if tld == "ru" %}[Яндекс Бизнес](https://yandex.ru/sprav/add){% endif %}{% if tld == "kz" %}[Яндекс Бизнес](https://yandex.kz/sprav/add){% endif %}{% if tld == "uz" %}[Яндекс Бизнес](https://yandex.uz/sprav/add){% endif %}{% if tld == "com" %}[Яндекс Бизнес](https://yandex.com/sprav/add){% endif %}{% if tld == 'com.tr' %}[Яндекс Бизнес](https://yandex.com.tr/sprav/add){% endif %} и войдите с Яндекс ID. Если у вас еще нет логина, [зарегистрируйтесь](https://passport.yandex.ru/registration?mode=register).
